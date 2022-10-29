@@ -34,12 +34,34 @@ Examples of Linux distributions:
 A Linux distribution mainly consists of 
 
 * #### Kernel
+     * It is a computer program which controls almost everything in the operating system.
+     * some of the functions of the kernel are.
+           * Resource allocation
+           * management of pheripheral devices
+           * file system access
+           * memory management
+           * processes
+
+
 * #### Daemons
+     * This are the computer programs that run in the background
+     * This are not under the control of the user
+     * They provide the system service
+     * This processes generally end with the letter d
+     
 * #### Applications
+     * This are softwares that provides functionalities that help a user perform a type of task.
+     * are also called apps
+     
 * #### Data files
+     * This files contain data that the user has captured,create or stored.
+     * Files can be grouped together into directories/folders
+     
 * #### Configuration files
-
-
+     * Configuration files are special files that contains initial settings or stores value for a system program.
+     * some configuration files are used to run a set of commands when the system is started or when the user logs in.
+     * Configuration file names use a comman set of extensions including .cnf and .conf.
+     * 
 ---
 
 ### Networking commands
