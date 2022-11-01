@@ -64,6 +64,35 @@ A Linux distribution mainly consists of
      * 
 ---
 
+## Linux User Interface
+
+### There are two ways to interact with the Linux system
+
+1. Command Line Interface(CLI)
+  * It accepts user commands in the form of text
+  * Commands are given through a command window or terminal
+  * It consumes fewer hardware resources
+  * It provides more options.
+  * Most Linux servers use only the CLI
+
+2. Graphical User Interface(GUI)
+  * It consists of visual Icons and objects that can be used to perform functions.
+  * It's simpler to use than the CLI
+ 
+ 
+## Linux Shell
+
+* A Shell is a command-line interpreter that defines the list of commands and functions that we can run.
+* In simple terms a shell is a program that takes commands from the users and gives them to the kernel.
+* A shell accepts the command from the user,interprets the command and then invokes the appropriate kernel component that runs the command.
+* __Types of shell__
+  * sh - The original Bourne shell for Unix.
+  * bash - The Bourne-again shell and the default Linux shell.
+  * ksh - The Kornshell,a common Unix shell.
+
+ 
+ 
+
 ### Networking commands
 
 * dig @server host
